@@ -11,7 +11,7 @@ import AVFoundation
 
 class RecordSoundsViewController: UIViewController, AVAudioRecorderDelegate {
     
-    @IBOutlet weak var recordingLabel: UILabel!
+    @IBOutlet weak var recordingLabel: UILabel! 
     
     @IBOutlet weak var recordingButton: UIButton!
     
